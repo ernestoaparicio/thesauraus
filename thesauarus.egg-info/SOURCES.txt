@@ -1,0 +1,7 @@
+README.rst
+setup.py
+thesauarus/__init__.py
+thesauarus.egg-info/PKG-INFO
+thesauarus.egg-info/SOURCES.txt
+thesauarus.egg-info/dependency_links.txt
+thesauarus.egg-info/top_level.txt
